@@ -17,6 +17,16 @@
         <item name="android:padding">20dp</item>
     </style>
 
+    <style name="button">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@drawable/button_rounded_corners</item>
+        <item name="android:text">"Awesomeness"</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+
 
 
 </resources>
